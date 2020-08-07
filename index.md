@@ -5,7 +5,7 @@
 </html>
 
 ***
-## [ABOUT ME / RESUME](./Who_am_I.md)  
+## [WHO AM I](./Who_am_I.md)  
 
 ***
 
@@ -23,8 +23,6 @@
 ## [RESOURCES](./Resources.md)  
 
 ***  
-
-
 
 
 ## <span style="color: grey;"> Get in touch: </span>  
