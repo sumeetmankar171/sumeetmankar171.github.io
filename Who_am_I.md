@@ -1,4 +1,4 @@
-**<span style="color: red;"> [HOME](./index.md) </span>**
+**<span style="color:red;"> [HOME](./index.md) </span>**
 
 ## WHOM AM I  
 
