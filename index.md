@@ -25,7 +25,7 @@
 ***  
 
 
-## <span style="color: grey;"> Get in touch: </span>  
+## <span style="color: grey;"> CONTACT: </span>  
 
 * **[Email](mailto:sumeetmankar171@gmail.com)**  
 
