@@ -33,7 +33,7 @@
 
 * **[GitHub](https://github.com/sumeetmankar171)**  
 
-* **[LinkedIn](https://www.linkedin.com/in/spmankar/)**  
+* **[LinkedIn](www.linkedin.com/in/sumeetmankar)**  
 
 
 <span style="color: white;"> SUMEET MANKAR </span> 
