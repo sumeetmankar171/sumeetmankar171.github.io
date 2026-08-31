@@ -33,16 +33,16 @@ TraitTrack is a mobile field phenotyping app designed for collaborative, plot-le
 ### Screenshots
 
 <div style="display:flex; flex-wrap:wrap; gap:12px; margin:20px 0;">
-  <img src="Images/traittrack/traittrack-splash.png" alt="TraitTrack launch screen" width="160">
-  <img src="Images/traittrack/traittrack-home.png" alt="Home dashboard" width="160">
-  <img src="Images/traittrack/traittrack-collect.png" alt="Collect screen" width="160">
-  <img src="Images/traittrack/traittrack-traits.png" alt="Traits list" width="160">
-  <img src="Images/traittrack/traittrack-settings.png" alt="Settings" width="160">
-  <img src="Images/traittrack/traittrack-export.png" alt="Export options" width="160">
-  <img src="Images/traittrack/traittrack-timers.png" alt="Team timers" width="160">
-  <img src="Images/traittrack/traittrack-calculator.png" alt="Calculator" width="160">
-  <img src="Images/traittrack/traittrack-collaboration.png" alt="Collaboration setup" width="160">
-  <img src="Images/traittrack/traittrack-brapi.png" alt="Breeding API Links" width="160">
+  <img src="TraitTrack/Simulator%20Screenshot%20-%20FieldBook%20Compat%20iPhone%2015%20Pro%20-%202026-08-05%20at%2013.48.52.png" alt="TraitTrack screen 1" width="160">
+  <img src="TraitTrack/Simulator%20Screenshot%20-%20FieldBook%20Compat%20iPhone%2015%20Pro%20-%202026-08-05%20at%2013.48.55.png" alt="TraitTrack screen 2" width="160">
+  <img src="TraitTrack/Simulator%20Screenshot%20-%20FieldBook%20Compat%20iPhone%2015%20Pro%20-%202026-08-05%20at%2013.49.09.png" alt="TraitTrack screen 3" width="160">
+  <img src="TraitTrack/Simulator%20Screenshot%20-%20FieldBook%20Compat%20iPhone%2015%20Pro%20-%202026-08-05%20at%2013.49.19.png" alt="TraitTrack screen 4" width="160">
+  <img src="TraitTrack/Simulator%20Screenshot%20-%20FieldBook%20Compat%20iPhone%2015%20Pro%20-%202026-08-05%20at%2013.49.27.png" alt="TraitTrack screen 5" width="160">
+  <img src="TraitTrack/Simulator%20Screenshot%20-%20FieldBook%20Compat%20iPhone%2015%20Pro%20-%202026-08-05%20at%2013.49.38.png" alt="TraitTrack screen 6" width="160">
+  <img src="TraitTrack/Simulator%20Screenshot%20-%20FieldBook%20Compat%20iPhone%2015%20Pro%20-%202026-08-05%20at%2013.49.48.png" alt="TraitTrack screen 7" width="160">
+  <img src="TraitTrack/Simulator%20Screenshot%20-%20FieldBook%20Compat%20iPhone%2015%20Pro%20-%202026-08-05%20at%2013.49.53.png" alt="TraitTrack screen 8" width="160">
+  <img src="TraitTrack/Simulator%20Screenshot%20-%20FieldBook%20Compat%20iPhone%2015%20Pro%20-%202026-08-05%20at%2013.50.20.png" alt="TraitTrack screen 9" width="160">
+  <img src="TraitTrack/Simulator%20Screenshot%20-%20FieldBook%20Compat%20iPhone%2015%20Pro%20-%202026-08-05%20at%2013.50.35.png" alt="TraitTrack screen 10" width="160">
 </div>
 ---
 
