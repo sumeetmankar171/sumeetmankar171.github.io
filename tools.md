@@ -29,6 +29,21 @@ TraitTrack is a mobile field phenotyping app designed for collaborative, plot-le
 - iOS 17.0 or later
 - iPhone or iPad
 
+
+### Screenshots
+
+<div style="display:flex; flex-wrap:wrap; gap:12px; margin:20px 0;">
+  <img src="Images/traittrack/traittrack-splash.png" alt="TraitTrack launch screen" width="160">
+  <img src="Images/traittrack/traittrack-home.png" alt="Home dashboard" width="160">
+  <img src="Images/traittrack/traittrack-collect.png" alt="Collect screen" width="160">
+  <img src="Images/traittrack/traittrack-traits.png" alt="Traits list" width="160">
+  <img src="Images/traittrack/traittrack-settings.png" alt="Settings" width="160">
+  <img src="Images/traittrack/traittrack-export.png" alt="Export options" width="160">
+  <img src="Images/traittrack/traittrack-timers.png" alt="Team timers" width="160">
+  <img src="Images/traittrack/traittrack-calculator.png" alt="Calculator" width="160">
+  <img src="Images/traittrack/traittrack-collaboration.png" alt="Collaboration setup" width="160">
+  <img src="Images/traittrack/traittrack-brapi.png" alt="Breeding API Links" width="160">
+</div>
 ---
 
 *More tools coming soon.*
